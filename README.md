@@ -54,9 +54,13 @@ The dataset is provided in Excel format and included in this repository.
 ---
 
 ## 📷 Output Screenshots
-
+### 📊 Sales Distribution
 ![Sales Distribution](images/chart1.png)
+
+### 📊 Category-wise Sales
 ![Category Sales](images/chart2.png)
+
+### 📊 Monthly Sales Trend
 ![Monthly Trend](images/chart3.png)
 
 ---
@@ -81,6 +85,8 @@ This project demonstrates how data analysis and machine learning can be used to 
 * Add interactive dashboard (Power BI / Streamlit)
 * Use advanced machine learning models
 * Deploy as a web application
+
+
 
 ---
 
