@@ -9,7 +9,7 @@ from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.metrics import mean_absolute_error, r2_score, classification_report, confusion_matrix
 
 
-df = pd.read_csv("C:/Users/Rangi/OneDrive/Desktop/Python Project/Amazon India Sales Data_Python.csv")
+df = pd.read_excel("C:/Users/Rangi/OneDrive/Desktop/Python Project/Amazon India Sales Data_Python.xlsx")
 
 
 # Gathering Information related to dataset
