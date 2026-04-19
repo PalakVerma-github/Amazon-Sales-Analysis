@@ -91,4 +91,4 @@ This project demonstrates how data analysis and machine learning can be used to 
 ---
 
 ⭐ If you like this project, give it a star!
-Minor improvements by Palak Verma
+
